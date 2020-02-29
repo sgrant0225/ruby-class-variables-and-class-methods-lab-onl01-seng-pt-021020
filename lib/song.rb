@@ -45,6 +45,6 @@ def self.artists
 
 def self.artist_count
   artist_count_hash = {}
-  @@
+  @@artists
 end
 end  
